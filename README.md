@@ -9,7 +9,7 @@ Code accompanying the paper: [M. Sipper, "High Per Parameter: A Large-Scale Stud
 * `hp.py`: define hyperparamter ranges/sets per algorithm
 * `stats.py`: compute replicate stats and hp_score
 
- 
+
 If you wish to cite this work:
 ```
 @Article{Sipper2022Hyper,
