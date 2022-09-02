@@ -5,7 +5,7 @@ Code accompanying the paper: [M. Sipper, "High Per Parameter: A Large-Scale Stud
 
 If you wish to cite this work:
 ```
-@Article{a15090315,
+@Article{Sipper2022Hyper,
 AUTHOR = {Sipper, Moshe},
 TITLE = {High Per Parameter: A Large-Scale Study of Hyperparameter Tuning for Machine Learning Algorithms},
 JOURNAL = {Algorithms},
