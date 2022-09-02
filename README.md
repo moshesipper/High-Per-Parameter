@@ -2,6 +2,13 @@
 
 Code accompanying the paper: [M. Sipper, "High Per Parameter: A Large-Scale Study of Hyperparameter Tuning for Machine Learning Algorithms", *Algorithms 2022, 15, 315*](https://www.mdpi.com/1999-4893/15/9/315).
 
+* `main.py`: ccc
+* `datasets.py`: ccc
+* `tune.py`: ccc
+* `stats.py`: ccc
+* `hp.py`: ccc
+* `score.py`: ccc
+
 
 If you wish to cite this work:
 ```
