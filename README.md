@@ -10,7 +10,9 @@ Code accompanying the paper: [M. Sipper, "High Per Parameter: A Large-Scale Stud
 * `stats.py`: compute stats and hp_score
 
 
-If you wish to cite this work:
+### Citation
+
+Citations are always appreciated 😊:
 ```
 @Article{Sipper2022Hyper,
 AUTHOR = {Sipper, Moshe},
